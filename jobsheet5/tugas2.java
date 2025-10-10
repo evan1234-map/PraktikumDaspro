@@ -7,7 +7,7 @@ public class tugas2 {
         Scanner sc = new Scanner(System.in);
 
         int angka = sc.nextInt();
-        System.out.println("Masukan angka:");
+        System.out.print("Masukan angka:");
         
         if (angka % 2 == 0){
             System.out.println("Angka Genap");
